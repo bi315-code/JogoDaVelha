@@ -19,3 +19,5 @@ O que o read me tem que ter:
 - Licença do projeto
 - Status do projeto, se está em desenvolvimento ou concluído
 - Testes e exemplos de código
+
+ooii
