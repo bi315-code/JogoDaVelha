@@ -12,10 +12,10 @@ Formar uma linha com três símbolos iguais, na horizontal, vertical ou diagonal
 
 
 O que o read me tem que ter:
-Descrição do projeto, incluindo o objetivo principal
-Como instalar e rodar o projeto
-Como usar o projeto
-Como contribuir para o projeto
-Licença do projeto
-Status do projeto, se está em desenvolvimento ou concluído
-Testes e exemplos de código
+-Descrição do projeto, incluindo o objetivo principal
+-Como instalar e rodar o projeto
+-Como usar o projeto
+-Como contribuir para o projeto
+-Licença do projeto
+-Status do projeto, se está em desenvolvimento ou concluído
+-Testes e exemplos de código
