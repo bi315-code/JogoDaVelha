@@ -20,13 +20,6 @@ Lembrando que a cada edição é necessário salvar o arquivo (Ctrl+S), dar um "
 Repita a partir do "git pull" para continuar jogando.</br>
 Bom jogo!
 
+## Status do projeto
 
-O que o read me tem que ter:
-
-- Como usar o projeto
-- Como contribuir para o projeto
-- Licença do projeto
-- Status do projeto, se está em desenvolvimento ou concluído
-- Testes e exemplos de código
-
-ooii
+Em desenvolvimento
