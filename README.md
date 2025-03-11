@@ -22,15 +22,4 @@ Bom jogo!
 
 ## Status do projeto
 
-<<<<<<< HEAD
 Em desenvolvimento
-=======
-O que o read me tem que ter:
-
-- Como contribuir para o projeto
-- Licença do projeto
-- Status do projeto, se está em desenvolvimento ou concluído
-- Testes e exemplos de código
-
-ooii
->>>>>>> ac134a8a12f4bca7545e3a2cf1d4eac51cc0b86f
