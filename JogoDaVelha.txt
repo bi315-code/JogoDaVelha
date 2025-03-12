@@ -8,7 +8,7 @@ _O_|_X_|_X_    -- Deu velha! -- Bia e Isadora
 
   _X_|_O_|_X_
   _X_|_O_|_O_  -- Gi e Bia
-     | X |
+     | X | O
 
   ___|___|___
   ___|___|___  -- 
