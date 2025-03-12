@@ -15,5 +15,5 @@ ___|_O_|_X_  -- Gi e Vini -- Gi ganhou
    |   | X
 
 _X_|___|_O_
-_O_|_O_|_O_  -- Gi e vini -- Vini venceu
+_O_|_O_|_O_  -- Gi e vini -- Vini ganhou 
  X | X |
