@@ -10,7 +10,7 @@ _X_|_O_|_X_
 _X_|_O_|_O_  -- Gi e Bia -- Gi ganhou
  X | X | O
 
-_O_|___|___
+_O_|_O_|___
 ___|_O_|___  -- Gi e Vini 
    |   | X
 
