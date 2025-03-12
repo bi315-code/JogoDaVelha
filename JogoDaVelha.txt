@@ -11,9 +11,9 @@ _X_|_O_|_O_  -- Gi e Bia -- Gi ganhou
  X | X | O
 
 _O_|_O_|_X_
-___|_O_|_X_  -- Gi e Vini - Gi ganhou
+___|_O_|_X_  -- Gi e Vini -- Gi ganhou
    |   | X
 
 _X_|___|_O_
-_O_|_O_|___  -- Gi e vini 
+_O_|_O_|_O_  -- Gi e vini -- Vini venceu
  X | X |
