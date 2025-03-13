@@ -7,7 +7,40 @@ Vinicios de Lima Basteiro
 
 Nome do Grupo: Quarteto Elegante
 
-Tema do Grupo:
+Tema do Grupo: Jogo da velha
 
-Objetivo do Grupo:
+Objetivo do Grupo: Aprender a utilizar o git através do jogo
 
+PASSO A PASSO:
+
+- Criar um repositório
+    
+    Nome: JogoDaVelha
+
+- Configurar VSCode, conectando-o com o Github:
+
+    git config --global user.name "usuário"
+    git config --global user.email "email"
+    (realizado 4 vezes)
+
+- Criar um arquivo .txt
+
+    JogoDaVelha.txt
+
+- Editar o arquivo com a primeira jogada 
+- Enviar o comando Commit
+
+    "git commit -m "Primeira jogada"
+
+- Após isso, o jogador deve enviar o comando Push
+    
+    git push JogoDaVelha main
+
+- O próximo jogador deve enviar um comando Pull para receber o arquivo com a primeira jogada
+
+    git pull JogoDaVelha main
+
+- O segundo jogador deve repetir os passos a partir do commit para enviar a segunda jogada de volta 
+para o primeiro jogador, que deve repetir os passos a partir do pull. 
+
+- O looping deve continuar até um dos jogadores completar uma linha, ou ambos perderem.
